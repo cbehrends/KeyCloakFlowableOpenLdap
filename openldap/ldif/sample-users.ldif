@@ -1,0 +1,13 @@
+# Sample users
+
+dn: uid=corey.behrends,ou=users,dc=flowable,dc=org
+changetype: add
+objectclass: inetOrgPerson
+cn: Corey
+sn: Behrends
+mail: cbehrends@gmail.com
+uid: corey.behrends
+userPassword: Password12
+
+# Password12
+# UGFzc3dvcmQxMg==
